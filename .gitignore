@@ -1,0 +1,18 @@
+.env
+
+artifacts/
+datasets/
+app.db
+
+*.pyc
+__pycache__/
+
+front_end/.next
+front_end/node_modules
+__pycache__
+
+# Frontend build
+/front_end/.next
+/front_end/node_modules
+
+
